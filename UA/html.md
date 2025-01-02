@@ -94,13 +94,13 @@
 </details>
 
 <details>
-  <summary>Яка різниця між тегами `<strong><em>` і `<b><i>`?</summary>
-  <p>Відповідь на питання про різницю між тегами `<strong><em>` і `<b><i>`...</p>
+  <summary>Яка різниця між тегами `&lt;strong&gt;&lt;em&gt;` і `&lt;b&gt;&lt;i&gt;`?</summary>
+  <p>Відповідь на питання про різницю між тегами `&lt;strong&gt;&lt;em&gt;` і `&lt;b&gt;&lt;i&gt;`...</p>
 </details>
 
 <details>
-  <summary>Типи `<input>` елементів в HTML?</summary>
-  <p>Відповідь на питання про типи `<input>` елементів в HTML...</p>
+  <summary>Типи `&lt;input&gt;` елементів в HTML?</summary>
+  <p>Відповідь на питання про типи `&lt;input&gt;` елементів в HTML...</p>
 </details>
 
 <details>
@@ -109,8 +109,8 @@
 </details>
 
 <details>
-  <summary>Для чого використовується елемент `<datalist>`?</summary>
-  <p>Відповідь на питання про використання елемента `<datalist>`...</p>
+  <summary>Для чого використовується елемент `&lt;datalist&gt;`?</summary>
+  <p>Відповідь на питання про використання елемента `&lt;datalist&gt;`...</p>
 </details>
 
 <details>
@@ -119,12 +119,12 @@
 </details>
 
 <details>
-  <summary>Що описується в теге `<head>`?</summary>
+  <summary>Що описується в теге `&lt;head&gt;`?</summary>
   <p>Відповідь на питання про вміст тега `<head>`...</p>
 </details>
 
 <details>
-  <summary>Для чого використовуються теги `<tr>`, `<th>`, `<td>`?</summary>
+  <summary>Для чого використовуються теги `&lt;tr&gt;`, `&lt;th&gt;`, `&lt;td&gt;`?</summary>
   <p>Відповідь на питання про використання тегів `<tr>`, `<th>`, `<td>`...</p>
 </details>
 
@@ -134,17 +134,17 @@
 </details>
 
 <details>
-  <summary>Що таке елемент `<canvas>`? І для чого він використовується?</summary>
+  <summary>Що таке елемент `&lt;canvas&gt;`? І для чого він використовується?</summary>
   <p>Відповідь на питання про елемент `<canvas>` і його використання...</p>
 </details>
 
 <details>
-  <summary>Що таке `<svg>` і `<canvas>`?</summary>
+  <summary>Що таке `&lt;svg&gt;` і `&lt;canvas&gt;`?</summary>
   <p>Відповідь на питання про `<svg>` і `<canvas>`...</p>
 </details>
 
 <details>
-  <summary>Різниця між `<canvas>` і `<svg>`?</summary>
+  <summary>Різниця між `&lt;canvas&gt;` і `&lt;svg&gt;`?</summary>
   <p>Відповідь на питання про різницю між `<canvas>` і `<svg>`...</p>
 </details>
 
@@ -154,7 +154,7 @@
 </details>
 
 <details>
-  <summary>Що таке елемент `<output>` в HTML5?</summary>
+  <summary>Що таке елемент `&lt;output&gt;` в HTML5?</summary>
   <p>Відповідь на питання про елемент `<output>` в HTML5...</p>
 </details>
 
@@ -173,7 +173,7 @@
   <p>Відповідь на питання про ApplicationCache в HTML5...</p>
 </details>
 <details>
-  <summary>Для чого використовується елемент `<picture>`?</summary>
+  <summary>Для чого використовується елемент `&lt;picture&gt;`?</summary>
   <p>Відповідь на питання про використання елемента `<picture>`...</p>
 </details>
 
@@ -188,12 +188,12 @@
 </details>
 
 <details>
-  <summary>Що таке `<iframe>`?</summary>
+  <summary>Що таке `&lt;iframe&gt;`?</summary>
   <p>Відповідь на питання про `<iframe>`...</p>
 </details>
 
 <details>
-  <summary>Для чого використовуються теги `<sub>` і `<sup>`?</summary>
+  <summary>Для чого використовуються теги `&lt;sub&gt;` і `&lt;sup&gt;`?</summary>
   <p>Відповідь на питання про використання тегів `<sub>` і `<sup>`...</p>
 </details>
 
@@ -203,12 +203,12 @@
 </details>
 
 <details>
-  <summary>Різниця між `<meter>` і `<progress>`?</summary>
+  <summary>Різниця між `&lt;meter&gt;` і `&lt;progress&gt;`?</summary>
   <p>Відповідь на питання про різницю між `<meter>` і `<progress>`...</p>
 </details>
 
 <details>
-  <summary>Як можна згрупувати опції всередині тега `<select>`?</summary>
+  <summary>Як можна згрупувати опції всередині тега `&lt;select&gt;`?</summary>
   <p>Відповідь на питання про групування опцій всередині тега `<select>`...</p>
 </details>
 
@@ -218,12 +218,12 @@
 </details>
 
 <details>
-  <summary>Чим відрізняється `<article>` від `<section>`?</summary>
+  <summary>Чим відрізняється `&lt;article&gt;` від `&lt;section&gt;`?</summary>
   <p>Відповідь на питання про відмінність між `<article>` та `<section>`...</p>
 </details>
 
 <details>
-  <summary>Розкажіть про особливості стилізації `<svg>`?</summary>
+  <summary>Розкажіть про особливості стилізації `&lt;svg&gt;`?</summary>
   <p>Відповідь на питання про особливості стилізації `<svg>`...</p>
 </details>
 
@@ -268,7 +268,7 @@
 </details>
 
 <details>
-  <summary>Для чого використовується тег `<label>`?</summary>
+  <summary>Для чого використовується тег `&lt;label&gt;`?</summary>
   <p>Відповідь на питання про використання тега `<label>`...</p>
 </details>
 
@@ -288,7 +288,7 @@
 </details>
 
 <details>
-  <summary>Розкажіть про тег `<samp>`?</summary>
+  <summary>Розкажіть про тег `&lt;samp&gt;`?</summary>
   <p>Відповідь на питання про тег `<samp>`...</p>
 </details>
 
