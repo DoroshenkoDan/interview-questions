@@ -4,96 +4,96 @@
 </h2>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Що таке WCAG?</span></summary>
+  <summary><span >Що таке WCAG?</span></summary>
   <p>Відповідь на питання про WCAG...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Основні принципи доступності?</span></summary>
+  <summary><span >Основні принципи доступності?</span></summary>
   <p>Відповідь на питання про основні принципи доступності...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Що таке скрінрідер?</span></summary>
+  <summary><span >Що таке скрінрідер?</span></summary>
   <p>Відповідь на питання про скрінрідер...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Рівні доступності?</span></summary>
+  <summary><span >Рівні доступності?</span></summary>
   <p>Відповідь на питання про рівні доступності...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Як приховати вміст тега від скрінрідерів?</span></summary>
+  <summary><span >Як приховати вміст тега від скрінрідерів?</span></summary>
   <p>Відповідь на питання про приховування вмісту від скрінрідерів...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Як видалити семантику у елемента?</span></summary>
+  <summary><span >Як видалити семантику у елемента?</span></summary>
   <p>Відповідь на питання про видалення семантики у елемента...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Що таке ARIA ролі у веб-додатку?</span></summary>
+  <summary><span >Що таке ARIA ролі у веб-додатку?</span></summary>
   <p>Відповідь на питання про ARIA ролі у веб-додатку...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Для чого використовується атрибут aria-roledescription?</span></summary>
+  <summary><span >Для чого використовується атрибут aria-roledescription?</span></summary>
   <p>Відповідь на питання про атрибут aria-roledescription...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Які HTML атрибути можна використовувати для покращення доступності?</span></summary>
+  <summary><span >Які HTML атрибути можна використовувати для покращення доступності?</span></summary>
   <p>Відповідь на питання про HTML атрибути для покращення доступності...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Назвіть засоби та методи тестування доступності?</span></summary>
+  <summary><span >Назвіть засоби та методи тестування доступності?</span></summary>
   <p>Відповідь на питання про засоби та методи тестування доступності...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Які стандарти доступності слід враховувати при розробці?</span></summary>
+  <summary><span >Які стандарти доступності слід враховувати при розробці?</span></summary>
   <p>Відповідь на питання про стандарти доступності при розробці...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Різниця між usability та accessibility?</span></summary>
+  <summary><span >Різниця між usability та accessibility?</span></summary>
   <p>Відповідь на питання про різницю між usability та accessibility...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Що потрібно враховувати при розробці доступного сайту?</span></summary>
+  <summary><span >Що потрібно враховувати при розробці доступного сайту?</span></summary>
   <p>Відповідь на питання про розробку доступного сайту...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Як структура заголовків (H1-H6) впливає на доступність? Як правильно їх використовувати для покращення навігації та доступності контенту?</span></summary>
+  <summary><span >Як структура заголовків (H1-H6) впливає на доступність? Як правильно їх використовувати для покращення навігації та доступності контенту?</span></summary>
   <p>Відповідь на питання про структуру заголовків та їх вплив на доступність...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Які правила слід дотримуватися при роботі з кольором для забезпечення кращої доступності?</span></summary>
+  <summary><span >Які правила слід дотримуватися при роботі з кольором для забезпечення кращої доступності?</span></summary>
   <p>Відповідь на питання про правила роботи з кольором для забезпечення доступності...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Які рекомендації існують для роботи з мультимедіа-контентом для забезпечення кращої доступності?</span></summary>
+  <summary><span >Які рекомендації існують для роботи з мультимедіа-контентом для забезпечення кращої доступності?</span></summary>
   <p>Відповідь на питання про рекомендації для роботи з мультимедіа-контентом...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Як створити доступний список в HTML за допомогою ARIA ролей?</span></summary>
+  <summary><span >Як створити доступний список в HTML за допомогою ARIA ролей?</span></summary>
   <p>Відповідь на питання про створення доступного списку в HTML за допомогою ARIA ролей...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Що таке "skip-links" і як вони використовуються для покращення доступності?</span></summary>
+  <summary><span >Що таке "skip-links" і як вони використовуються для покращення доступності?</span></summary>
   <p>Відповідь на питання про "skip-links" та їх використання для покращення доступності...</p>
 </details>
 
 <details>
-  <summary><span style="font-size: 1.2em;">Різниця між role та aria-label у контексті доступності?</span></summary>
+  <summary><span >Різниця між role та aria-label у контексті доступності?</span></summary>
   <p>Відповідь на питання про різницю між role та aria-label у контексті доступності...</p>
 </details>
