@@ -4,7 +4,7 @@
 </h2>
 
 <details>
-  <summary><p>Що таке WCAG?</p></summary>
+  <summary><span>Що таке WCAG?</span></summary>
   <p>Відповідь на питання про WCAG...</p>
 </details>
 <h3>Основні принципи доступності?</h3>
