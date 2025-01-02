@@ -3,38 +3,177 @@
   <span>JS in Browser:</span>
 </h2>
 
-<h3>Що таке DOM?</h3>
-<h3>Типи вузлів DOM-дерева?</h3>
-<h3>Методи пошуку елементів в DOM?</h3>
-<h3>Властивості для переміщення по DOM-дереву?</h3>
-<h3>Різниця між attribute і property у DOM-елементів?</h3>
-<h3>Що таке BOM?</h3>
-<h3>Види подій в JavaScript?</h3>
-<h3>Як додати обробник події на DOM-елемент?</h3>
-<h3>Як видалити обробник події з DOM-елемента?</h3>
-<h3>Що таке поширення події (Event Propagation)?</h3>
-<h3>Що таке делегування подій (Event Delegation)?</h3>
-<h3>Як використовувати media вирази в JavaScript?</h3>
-<h3>Розкажіть про координати в браузері?</h3>
-<h3>Різниця між HTMLCollection і NodeList?</h3>
-<h3>Як динамічно додати елемент на HTML-сторінку?</h3>
-<h3>Різниця між feature detection, feature inference і аналізом рядка user-agent?</h3>
-<h3>Різниця між `e.preventDefault()` і `e.stopPropagation()`?</h3>
-<h3>Різниця між `event.target` і `event.currentTarget`?</h3>
-<h3>Різниця між `.stopPropagation()` і `.stopImmediatePropagation()`?</h3>
-<h3>Різниця між подіями `load` і `DOMContentLoaded`?</h3>
-<h3>Скільки аргументів приймає `addEventListener`?</h3>
-<h3>Різниця між `innerHTML` і `outerHTML`?</h3>
-<h3>Різниця між `JSON` і `XML`?</h3>
-<h3>Як дізнатися про використання методу `event.preventDefault()`?</h3>
-<h3>Для чого використовується властивість `window.navigator`?</h3>
-<h3>Для чого використовується метод `.focus()`?</h3>
-<h3>Для чого використовується властивість `.forms`?</h3>
-<h3>Для чого використовується метод `.scrollIntoView()`?</h3>
-<h3>Різниця між методами `.submit()` і `.requestSubmit()`?</h3>
-<h3>Розкажіть про `IntersectionObserver`?</h3>
-<h3>Розкажіть про `URLSearchParams`?</h3>
-<h3>Які є обмеження у `window.close()`?</h3>
-<h3>Як можна створювати користувацьку подію (custom events) в JavaScript?</h3>
-<h3>Що таке `IndexedDB`? Як працює `IndexedDB`?</h3>
-<h3>Розкажіть про метод `requestAnimationFrame()`?</h3>
+<details>
+  <summary>Що таке DOM?</summary>
+  <p>Відповідь на питання про DOM...</p>
+</details>
+
+<details>
+  <summary>Типи вузлів DOM-дерева?</summary>
+  <p>Відповідь на питання про типи вузлів DOM-дерева...</p>
+</details>
+
+<details>
+  <summary>Методи пошуку елементів в DOM?</summary>
+  <p>Відповідь на питання про методи пошуку елементів в DOM...</p>
+</details>
+
+<details>
+  <summary>Властивості для переміщення по DOM-дереву?</summary>
+  <p>Відповідь на питання про властивості для переміщення по DOM-дереву...</p>
+</details>
+
+<details>
+  <summary>Різниця між attribute і property у DOM-елементів?</summary>
+  <p>Відповідь на питання про різницю між attribute і property у DOM-елементів...</p>
+</details>
+
+<details>
+  <summary>Що таке BOM?</summary>
+  <p>Відповідь на питання про BOM...</p>
+</details>
+
+<details>
+  <summary>Види подій в JavaScript?</summary>
+  <p>Відповідь на питання про види подій в JavaScript...</p>
+</details>
+
+<details>
+  <summary>Як додати обробник події на DOM-елемент?</summary>
+  <p>Відповідь на питання про додавання обробника події на DOM-елемент...</p>
+</details>
+
+<details>
+  <summary>Як видалити обробник події з DOM-елемента?</summary>
+  <p>Відповідь на питання про видалення обробника події з DOM-елемента...</p>
+</details>
+
+<details>
+  <summary>Що таке поширення події (Event Propagation)?</summary>
+  <p>Відповідь на питання про поширення події (Event Propagation)...</p>
+</details>
+
+<details>
+  <summary>Що таке делегування подій (Event Delegation)?</summary>
+  <p>Відповідь на питання про делегування подій (Event Delegation)...</p>
+</details>
+
+<details>
+  <summary>Як використовувати media вирази в JavaScript?</summary>
+  <p>Відповідь на питання про використання media виразів в JavaScript...</p>
+</details>
+
+<details>
+  <summary>Розкажіть про координати в браузері?</summary>
+  <p>Відповідь на питання про координати в браузері...</p>
+</details>
+
+<details>
+  <summary>Різниця між HTMLCollection і NodeList?</summary>
+  <p>Відповідь на питання про різницю між HTMLCollection і NodeList...</p>
+</details>
+
+<details>
+  <summary>Як динамічно додати елемент на HTML-сторінку?</summary>
+  <p>Відповідь на питання про динамічне додавання елементу на HTML-сторінку...</p>
+</details>
+
+<details>
+  <summary>Різниця між feature detection, feature inference і аналізом рядка user-agent?</summary>
+  <p>Відповідь на питання про різницю між feature detection, feature inference і аналізом рядка user-agent...</p>
+</details>
+
+<details>
+  <summary>Різниця між `e.preventDefault()` і `e.stopPropagation()`?</summary>
+  <p>Відповідь на питання про різницю між `e.preventDefault()` і `e.stopPropagation()`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `event.target` і `event.currentTarget`?</summary>
+  <p>Відповідь на питання про різницю між `event.target` і `event.currentTarget`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `.stopPropagation()` і `.stopImmediatePropagation()`?</summary>
+  <p>Відповідь на питання про різницю між `.stopPropagation()` і `.stopImmediatePropagation()`...</p>
+</details>
+
+<details>
+  <summary>Різниця між подіями `load` і `DOMContentLoaded`?</summary>
+  <p>Відповідь на питання про різницю між подіями `load` і `DOMContentLoaded`...</p>
+</details>
+
+<details>
+  <summary>Скільки аргументів приймає `addEventListener`?</summary>
+  <p>Відповідь на питання про кількість аргументів, які приймає `addEventListener`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `innerHTML` і `outerHTML`?</summary>
+  <p>Відповідь на питання про різницю між `innerHTML` і `outerHTML`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `JSON` і `XML`?</summary>
+  <p>Відповідь на питання про різницю між `JSON` і `XML`...</p>
+</details>
+
+<details>
+  <summary>Як дізнатися про використання методу `event.preventDefault()`?</summary>
+  <p>Відповідь на питання про використання методу `event.preventDefault()`...</p>
+</details>
+
+<details>
+  <summary>Для чого використовується властивість `window.navigator`?</summary>
+  <p>Відповідь на питання про використання властивості `window.navigator`...</p>
+</details>
+
+<details>
+  <summary>Для чого використовується метод `.focus()`?</summary>
+  <p>Відповідь на питання про використання методу `.focus()`...</p>
+</details>
+
+<details>
+  <summary>Для чого використовується властивість `.forms`?</summary>
+  <p>Відповідь на питання про використання властивості `.forms`...</p>
+</details>
+
+<details>
+  <summary>Для чого використовується метод `.scrollIntoView()`?</summary>
+  <p>Відповідь на питання про використання методу `.scrollIntoView()`...</p>
+</details>
+
+<details>
+  <summary>Різниця між методами `.submit()` і `.requestSubmit()`?</summary>
+  <p>Відповідь на питання про різницю між методами `.submit()` і `.requestSubmit()`...</p>
+</details>
+
+<details>
+  <summary>Розкажіть про `IntersectionObserver`?</summary>
+  <p>Відповідь на питання про `IntersectionObserver`...</p>
+</details>
+
+<details>
+  <summary>Розкажіть про `URLSearchParams`?</summary>
+  <p>Відповідь на питання про `URLSearchParams`...</p>
+</details>
+
+<details>
+  <summary>Які є обмеження у `window.close()`?</summary>
+  <p>Відповідь на питання про обмеження у `window.close()`...</p>
+</details>
+
+<details>
+  <summary>Як можна створювати користувацьку подію (custom events) в JavaScript?</summary>
+  <p>Відповідь на питання про створення користувацької події (custom events) в JavaScript...</p>
+</details>
+
+<details>
+  <summary>Що таке `IndexedDB`? Як працює `IndexedDB`?</summary>
+  <p>Відповідь на питання про `IndexedDB` та як вона працює...</p>
+</details>
+
+<details>
+  <summary>Розкажіть про метод `requestAnimationFrame()`?</summary>
+  <p>Відповідь на питання про метод `requestAnimationFrame()`...</p>
+</details>

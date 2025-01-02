@@ -1,48 +1,214 @@
-<h2>
-  <img src="../assets/WWW.png" width="20" height="20" />
-  <span>Web Technologies:</span>
-</h2>
+<details>
+  <summary>Що таке прогресивний рендеринг?</summary>
+  <p>Відповідь на питання про прогресивний рендеринг...</p>
+</details>
 
-<h3>Що таке прогресивний рендеринг?</h3>
-<h3>Що таке прогресивний SSR?</h3>
-<h3>SSR (Server-Side Rendering) і CSR (Client-Side Rendering) плюси і мінуси?</h3>
-<h3>Що таке Progressive Web Application (PWA)?</h3>
-<h3>Що таке кроссбраузерність?</h3>
-<h3>Що таке OSI модель?</h3>
-<h3>Що таке потік документа?</h3>
-<h3>Різниця між адаптивним (adaptive) і відзивчивим (responsive) дизайнами?</h3>
-<h3>Різниця між Progressive Enhancement і Graceful Degradation?</h3>
-<h3>Що таке Веб-компоненти і які технології в них використовуються?</h3>
-<h3>Особливості розробки мультимовних сайтів?</h3>
-<h3>Що таке REST?</h3>
-<h3>Що таке REST і RESTful api?</h3>
-<h3>Принципи REST-архітектури?</h3>
-<h3>Що таке модель зрілості Річардсона?</h3>
-<h3>Основні рівні моделі зрілості Річардсона?</h3>
-<h3>Що таке History API в браузері?</h3>
-<h3>Що таке веб-сховище (web storage)?</h3>
-<h3>Різниця між `cookie`, `sessionStorage` і `localStorage`?</h3>
-<h3>Що таке `HTTP`?</h3>
-<h3>З чого складається `HTTP`-запит?</h3>
-<h3>Які методи може мати `HTTP`-запит?</h3>
-<h3>Що таке `HTTP` cookie? Для чого вони використовуються?</h3>
-<h3>Різниця між `HTTP` і `HTTPS`?</h3>
-<h3>Різниця між `HTTP/1` і `HTTP/2`?</h3>
-<h3>Як працює мультиплексування в `HTTP/2`?</h3>
-<h3>Що таке “тристороннє рукостискання” (Triple handshake)?</h3>
-<h3>Різниця між `PUT`- і `POST`-запитами?</h3>
-<h3>Різниця між протоколами `TCP` і `UDP`?</h3>
-<h3>Що таке `WebSocket`? В чому принцип його роботи?</h3>
-<h3>Різниця між Long-Polling, Websockets і Server-Sent Events?</h3>
-<h3>Як працює `JSONP`?</h3>
-<h3>Що таке IndexedDB в браузері? Переваги IndexedDB?</h3>
-<h3>Що таке Service Workers?</h3>
-<h3>Що таке Web Workers?</h3>
-<h3>Що таке Web Worklet?</h3>
-<h3>Механізм встановлення сеансу між клієнтом і сервером?</h3>
-<h3>Що таке API?</h3>
-<h3>Що таке CDN?</h3>
-<h3>Що таке IP-адреса?</h3>
-<h3>Різниця між host і domain?</h3>
-<h3>Різниця між URI і URL?</h3>
-<h3>Чому очищати кеш важливо? Як це можна зробити?</h3>
+<details>
+  <summary>Що таке прогресивний SSR?</summary>
+  <p>Відповідь на питання про прогресивний SSR...</p>
+</details>
+
+<details>
+  <summary>SSR (Server-Side Rendering) і CSR (Client-Side Rendering) плюси і мінуси?</summary>
+  <p>Відповідь на питання про плюси і мінуси SSR (Server-Side Rendering) і CSR (Client-Side Rendering)...</p>
+</details>
+
+<details>
+  <summary>Що таке Progressive Web Application (PWA)?</summary>
+  <p>Відповідь на питання про Progressive Web Application (PWA)...</p>
+</details>
+
+<details>
+  <summary>Що таке кроссбраузерність?</summary>
+  <p>Відповідь на питання про кроссбраузерність...</p>
+</details>
+
+<details>
+  <summary>Що таке OSI модель?</summary>
+  <p>Відповідь на питання про OSI модель...</p>
+</details>
+
+<details>
+  <summary>Що таке потік документа?</summary>
+  <p>Відповідь на питання про потік документа...</p>
+</details>
+
+<details>
+  <summary>Різниця між адаптивним (adaptive) і відзивчивим (responsive) дизайнами?</summary>
+  <p>Відповідь на питання про різницю між адаптивним (adaptive) і відзивчивим (responsive) дизайнами...</p>
+</details>
+
+<details>
+  <summary>Різниця між Progressive Enhancement і Graceful Degradation?</summary>
+  <p>Відповідь на питання про різницю між Progressive Enhancement і Graceful Degradation...</p>
+</details>
+
+<details>
+  <summary>Що таке Веб-компоненти і які технології в них використовуються?</summary>
+  <p>Відповідь на питання про Веб-компоненти і технології, які в них використовуються...</p>
+</details>
+
+<details>
+  <summary>Особливості розробки мультимовних сайтів?</summary>
+  <p>Відповідь на питання про особливості розробки мультимовних сайтів...</p>
+</details>
+
+<details>
+  <summary>Що таке REST?</summary>
+  <p>Відповідь на питання про REST...</p>
+</details>
+
+<details>
+  <summary>Що таке REST і RESTful api?</summary>
+  <p>Відповідь на питання про REST і RESTful api...</p>
+</details>
+
+<details>
+  <summary>Принципи REST-архітектури?</summary>
+  <p>Відповідь на питання про принципи REST-архітектури...</p>
+</details>
+
+<details>
+  <summary>Що таке модель зрілості Річардсона?</summary>
+  <p>Відповідь на питання про модель зрілості Річардсона...</p>
+</details>
+
+<details>
+  <summary>Основні рівні моделі зрілості Річардсона?</summary>
+  <p>Відповідь на питання про основні рівні моделі зрілості Річардсона...</p>
+</details>
+
+<details>
+  <summary>Що таке History API в браузері?</summary>
+  <p>Відповідь на питання про History API в браузері...</p>
+</details>
+
+<details>
+  <summary>Що таке веб-сховище (web storage)?</summary>
+  <p>Відповідь на питання про веб-сховище (web storage)...</p>
+</details>
+
+<details>
+  <summary>Різниця між `cookie`, `sessionStorage` і `localStorage`?</summary>
+  <p>Відповідь на питання про різницю між `cookie`, `sessionStorage` і `localStorage`...</p>
+</details>
+
+<details>
+  <summary>Що таке `HTTP`?</summary>
+  <p>Відповідь на питання про `HTTP`...</p>
+</details>
+
+<details>
+  <summary>З чого складається `HTTP`-запит?</summary>
+  <p>Відповідь на питання про складові `HTTP`-запиту...</p>
+</details>
+
+<details>
+  <summary>Які методи може мати `HTTP`-запит?</summary>
+  <p>Відповідь на питання про методи `HTTP`-запиту...</p>
+</details>
+
+<details>
+  <summary>Що таке `HTTP` cookie? Для чого вони використовуються?</summary>
+  <p>Відповідь на питання про `HTTP` cookie та їх використання...</p>
+</details>
+
+<details>
+  <summary>Різниця між `HTTP` і `HTTPS`?</summary>
+  <p>Відповідь на питання про різницю між `HTTP` і `HTTPS`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `HTTP/1` і `HTTP/2`?</summary>
+  <p>Відповідь на питання про різницю між `HTTP/1` і `HTTP/2`...</p>
+</details>
+
+<details>
+  <summary>Як працює мультиплексування в `HTTP/2`?</summary>
+  <p>Відповідь на питання про мультиплексування в `HTTP/2`...</p>
+</details>
+
+<details>
+  <summary>Що таке “тристороннє рукостискання” (Triple handshake)?</summary>
+  <p>Відповідь на питання про “тристороннє рукостискання” (Triple handshake)...</p>
+</details>
+
+<details>
+  <summary>Різниця між `PUT`- і `POST`-запитами?</summary>
+  <p>Відповідь на питання про різницю між `PUT`- і `POST`-запитами...</p>
+</details>
+
+<details>
+  <summary>Різниця між протоколами `TCP` і `UDP`?</summary>
+  <p>Відповідь на питання про різницю між протоколами `TCP` і `UDP`...</p>
+</details>
+
+<details>
+  <summary>Що таке `WebSocket`? В чому принцип його роботи?</summary>
+  <p>Відповідь на питання про `WebSocket` та принцип його роботи...</p>
+</details>
+
+<details>
+  <summary>Різниця між Long-Polling, Websockets і Server-Sent Events?</summary>
+  <p>Відповідь на питання про різницю між Long-Polling, Websockets і Server-Sent Events...</p>
+</details>
+
+<details>
+  <summary>Як працює `JSONP`?</summary>
+  <p>Відповідь на питання про роботу `JSONP`...</p>
+</details>
+
+<details>
+  <summary>Що таке IndexedDB в браузері? Переваги IndexedDB?</summary>
+  <p>Відповідь на питання про IndexedDB в браузері та його переваги...</p>
+</details>
+
+<details>
+  <summary>Що таке Service Workers?</summary>
+  <p>Відповідь на питання про Service Workers...</p>
+</details>
+
+<details>
+  <summary>Що таке Web Workers?</summary>
+  <p>Відповідь на питання про Web Workers...</p>
+</details>
+
+<details>
+  <summary>Що таке Web Worklet?</summary>
+  <p>Відповідь на питання про Web Worklet...</p>
+</details>
+
+<details>
+  <summary>Механізм встановлення сеансу між клієнтом і сервером?</summary>
+  <p>Відповідь на питання про механізм встановлення сеансу між клієнтом і сервером...</p>
+</details>
+
+<details>
+  <summary>Що таке API?</summary>
+  <p>Відповідь на питання про API...</p>
+</details>
+
+<details>
+  <summary>Що таке CDN?</summary>
+  <p>Відповідь на питання про CDN...</p>
+</details>
+
+<details>
+  <summary>Що таке IP-адреса?</summary>
+  <p>Відповідь на питання про IP-адресу...</p>
+</details>
+
+<details>
+  <summary>Різниця між host і domain?</summary>
+  <p>Відповідь на питання про різницю між host і domain...</p>
+</details>
+
+<details>
+  <summary>Різниця між URI і URL?</summary>
+  <p>Відповідь на питання про різницю між URI і URL...</p>
+</details>
+
+<details>
+  <summary>Чому очищати кеш важливо? Як це можна зробити?</summary>
+  <p>Відповідь на питання про важливість очищення кешу та способи його очищення...</p>
+</details>

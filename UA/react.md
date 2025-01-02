@@ -1,73 +1,154 @@
 <h2>
-  <img src="../assets/React.png"  width="20" height="20" />
+  <img src="../assets/React.png" width="20" height="20" />
   <span>React:</span>
 </h2>
 
-<h3>Що таке React?</h3>
-<h3>Перерахуйте особливості React?</h3>
-<h3>Що таке Virtual DOM? Як він працює з React?</h3>
-<h3>Для чого потрібен атрибут `key` при рендері списків?</h3>
-<h3>Що таке `PureComponent`?</h3>
-<h3>Що таке Компонент вищого порядку (Higher-Order Component/HOC)?</h3>
-<h3>Різниця між керованими (controlled) і некерованими (uncontrolled) компонентами?</h3>
-<h3>Методи життєвого циклу компонента в React?</h3>
-<h3>Стадії життєвого циклу компонента в React?</h3>
-<h3>Що таке React Reconciliation?</h3>
-<h3>Що таке портал (`Portal`)?</h3>
-<h3>Що таке контекст (`Context`)?</h3>
-<h3>Що таке React хуки (Hooks)?</h3>
-<h3>Що таке `JSX`?</h3>
-<h3>Різниця між `JSX` і `HTML`?</h3>
-<h3>Різниця між станом (`state`) і пропсами (`props`)?</h3>
-<h3>Що таке React Fiber?</h3>
-<h3>Що таке фрагмент (`Fragment`)? Чому фрагмент краще, ніж `div`?</h3>
-<h3>Що таке синтетичні події в React?</h3>
-<h3>Що таке React-посилання (`ref`)? Як створити посилання?</h3>
-<h3>Різниця між тіньовим (Shadow) і віртуальним (Virtual) DOM?</h3>
-<h3>Назвіть переваги використання React?</h3>
-<h3>Що таке умовний рендеринг (Conditional Rendering)? Як його виконати?</h3>
-<h3>Що таке компонент-перемикач (Switching Component)?</h3>
-<h3>Різниця між `React` і `ReactDOM`?</h3>
-<h3>Різниця між компонентом і контейнером?</h3>
-<h3>Як React обробляє або обмежує використання пропсів певного типу?</h3>
-<h3>Що таке строгий режим в React? Його переваги?</h3>
-<h3>Що таке «буріння пропсів» (Prop Drilling)? Як його уникнути?</h3>
-<h3>Що таке «опитування» (Polling)? Як його реалізувати в React?</h3>
-<h3>Різниця між елементом і компонентом?</h3>
-<h3>Що таке `ReactDOMServer`?</h3>
-<h3>Що таке запобіжники (Error Boundaries)?</h3>
-<h3>Що таке «лінива» (Lazy) функція?</h3>
-<h3>Різниця між рендерингом і монтуванням?</h3>
-<h3>Що таке `children`?</h3>
-<h3>Що таке події вказівника (Pointer Events)?</h3>
-<h3>Що таке інверсія наслідування (Inheritance Inversion)?</h3>
-<h3>Як в React реалізувати двостороннє зв'язування даних?</h3>
-<h3>Різниця між класовим і функціональним компонентами?</h3>
-<h3>Різниця між `useEffect()` і `componentDidMount()`?</h3>
-<h3>Переваги хуків?</h3>
-<h3>Недоліки хуків?</h3>
-<h3>Правила (обмеження) використання хуків?</h3>
-<h3>Що таке підняття стану вгору (Lifting State Up)?</h3>
-<h3>Що робить метод `shouldComponentUpdate`?</h3>
-<h3>Різниця між `createElement()` і `cloneElement()`?</h3>
-<h3>Що таке `useReducer()`?</h3>
-<h3>Як реалізувати одноразове виконання операції при початковому рендерингу?</h3>
-<h3>Що таке розподілений компонент?</h3>
-<h3>Розкажіть про хуки `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?</h3>
-<h3>Як відрендерити HTML код в React-компоненті?</h3>
-<h3>Навіщо в `setState()` потрібно передавати функцію?</h3>
-<h3>Для чого призначений метод `registerServiceWorker()` в React?</h3>
-<h3>Чим React Router відрізняється від звичайної маршрутизації?</h3>
-<h3>Які хуки були додані в React Router версії 5?</h3>
-<h3>Як передавати пропси в React Router?</h3>
-<h3>Що таке Reselect і як він працює?</h3>
-<h3>Назвіть основну мету React Fiber?</h3>
-<h3>Які типи даних може повертати `render`?</h3>
-<h3>Різниця між `memo` і `useMemo`?</h3>
-<h3>Що таке синтетичні події (SyntheticEvent) в React?</h3>
-<h3>Чи є React реактивним?</h3>
-<h3>Техніки оптимізації продуктивності React?</h3>
-<h3>Найкращі практики безпеки в React?</h3>
-<h3>Як працює пропс `children` в React?</h3>
-<h3>Що таке зворотний потік даних в React?</h3>
-<h3>Як використовувати `React.lazy` і `React.Suspense` для запуску коду додатку?</h3>
+<details>
+  <summary>Як в React реалізувати двостороннє зв'язування даних?</summary>
+  <p>Відповідь на питання про реалізацію двостороннього зв'язування даних в React...</p>
+</details>
+
+<details>
+  <summary>Різниця між класовим і функціональним компонентами?</summary>
+  <p>Відповідь на питання про різницю між класовим і функціональним компонентами...</p>
+</details>
+
+<details>
+  <summary>Різниця між `useEffect()` і `componentDidMount()`?</summary>
+  <p>Відповідь на питання про різницю між `useEffect()` і `componentDidMount()`...</p>
+</details>
+
+<details>
+  <summary>Переваги хуків?</summary>
+  <p>Відповідь на питання про переваги хуків...</p>
+</details>
+
+<details>
+  <summary>Недоліки хуків?</summary>
+  <p>Відповідь на питання про недоліки хуків...</p>
+</details>
+
+<details>
+  <summary>Правила (обмеження) використання хуків?</summary>
+  <p>Відповідь на питання про правила (обмеження) використання хуків...</p>
+</details>
+
+<details>
+  <summary>Що таке підняття стану вгору (Lifting State Up)?</summary>
+  <p>Відповідь на питання про підняття стану вгору (Lifting State Up)...</p>
+</details>
+
+<details>
+  <summary>Що робить метод `shouldComponentUpdate`?</summary>
+  <p>Відповідь на питання про метод `shouldComponentUpdate`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `createElement()` і `cloneElement()`?</summary>
+  <p>Відповідь на питання про різницю між `createElement()` і `cloneElement()`...</p>
+</details>
+
+<details>
+  <summary>Що таке `useReducer()`?</summary>
+  <p>Відповідь на питання про `useReducer()`...</p>
+</details>
+
+<details>
+  <summary>Як реалізувати одноразове виконання операції при початковому рендерингу?</summary>
+  <p>Відповідь на питання про одноразове виконання операції при початковому рендерингу...</p>
+</details>
+
+<details>
+  <summary>Що таке розподілений компонент?</summary>
+  <p>Відповідь на питання про розподілений компонент...</p>
+</details>
+
+<details>
+  <summary>Розкажіть про хуки `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`?</summary>
+  <p>Відповідь на питання про хуки `useCallback()`, `useMemo()`, `useImperativeHandle()`, `useLayoutEffect()`...</p>
+</details>
+
+<details>
+  <summary>Як відрендерити HTML код в React-компоненті?</summary>
+  <p>Відповідь на питання про рендеринг HTML коду в React-компоненті...</p>
+</details>
+
+<details>
+  <summary>Навіщо в `setState()` потрібно передавати функцію?</summary>
+  <p>Відповідь на питання про передачу функції в `setState()`...</p>
+</details>
+
+<details>
+  <summary>Для чого призначений метод `registerServiceWorker()` в React?</summary>
+  <p>Відповідь на питання про метод `registerServiceWorker()` в React...</p>
+</details>
+
+<details>
+  <summary>Чим React Router відрізняється від звичайної маршрутизації?</summary>
+  <p>Відповідь на питання про відмінності React Router від звичайної маршрутизації...</p>
+</details>
+
+<details>
+  <summary>Які хуки були додані в React Router версії 5?</summary>
+  <p>Відповідь на питання про хуки, додані в React Router версії 5...</p>
+</details>
+
+<details>
+  <summary>Як передавати пропси в React Router?</summary>
+  <p>Відповідь на питання про передачу пропсів в React Router...</p>
+</details>
+
+<details>
+  <summary>Що таке Reselect і як він працює?</summary>
+  <p>Відповідь на питання про Reselect та його роботу...</p>
+</details>
+
+<details>
+  <summary>Назвіть основну мету React Fiber?</summary>
+  <p>Відповідь на питання про основну мету React Fiber...</p>
+</details>
+
+<details>
+  <summary>Які типи даних може повертати `render`?</summary>
+  <p>Відповідь на питання про типи даних, які може повертати `render`...</p>
+</details>
+
+<details>
+  <summary>Різниця між `memo` і `useMemo`?</summary>
+  <p>Відповідь на питання про різницю між `memo` і `useMemo`...</p>
+</details>
+
+<details>
+  <summary>Що таке синтетичні події (SyntheticEvent) в React?</summary>
+  <p>Відповідь на питання про синтетичні події (SyntheticEvent) в React...</p>
+</details>
+
+<details>
+  <summary>Чи є React реактивним?</summary>
+  <p>Відповідь на питання про реактивність React...</p>
+</details>
+
+<details>
+  <summary>Техніки оптимізації продуктивності React?</summary>
+  <p>Відповідь на питання про техніки оптимізації продуктивності React...</p>
+</details>
+
+<details>
+  <summary>Найкращі практики безпеки в React?</summary>
+  <p>Відповідь на питання про найкращі практики безпеки в React...</p>
+</details>
+
+<details>
+  <summary>Як працює пропс `children` в React?</summary>
+  <p>Відповідь на питання про роботу пропсу `children` в React...</p>
+</details>
+
+<details>
+  <summary>Що таке зворотний потік даних в React?</summary>
+  <p>Відповідь на питання про зворотний потік даних в React...</p>
+</details>
+
+<details>
+  <summary>Як використовувати `React.lazy` і `React.Suspense` для запуску коду додатку?</summary>
+  <p>Відповідь на питання про використання `React.lazy` і `React.Suspense` для запуску коду додатку...</p>
+</details>
