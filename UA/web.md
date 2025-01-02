@@ -1,3 +1,8 @@
+<h2>
+  <img src="../assets/WWW.png" width="20" height="20" />
+  <span>Web Technologies:</span>
+</h2>
+
 <details>
   <summary>Що таке прогресивний рендеринг?</summary>
   <p>Відповідь на питання про прогресивний рендеринг...</p>

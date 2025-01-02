@@ -1,4 +1,57 @@
-<h3>Що таке каррінг (Currying)?</h3>
+<h2>
+  <img src="../assets/WWW.png"  width="20" height="20" />
+  <span>OOP & FP:</span>
+</h2>
+
+<details>
+  <summary>Основні принципи ООП?</summary>
+  <p>Відповідь на питання про основні принципи ООП...</p>
+</details>
+
+<details>
+  <summary>Що таке SOLID?</summary>
+  <p>Відповідь на питання про SOLID...</p>
+</details>
+
+<details>
+  <summary>Різниця між класовим і прототипним наслідуванням?</summary>
+  <p>Відповідь на питання про різницю між класовим і прототипним наслідуванням...</p>
+</details>
+
+<details>
+  <summary>Односпрямований потік даних і двосторонній зв'язок даних? У чому між ними різниця?</summary>
+  <p>Відповідь на питання про односпрямований потік даних і двосторонній зв'язок даних...</p>
+</details>
+
+<details>
+  <summary>Що таке функціональне програмування?</summary>
+  <p>Відповідь на питання про функціональне програмування...</p>
+</details>
+
+<details>
+  <summary>Що таке MVC?</summary>
+  <p>Відповідь на питання про MVC...</p>
+</details>
+<details>
+  <summary>Що таке MVVM?</summary>
+  <p>Відповідь на питання про MVVM...</p>
+</details>
+
+<details>
+  <summary>Що таке MVP?</summary>
+  <p>Відповідь на питання про MVP...</p>
+</details>
+
+<details>
+  <summary>Недоліки патерну MVW?</summary>
+  <p>Відповідь на питання про недоліки патерну MVW...</p>
+</details>
+
+<details>
+  <summary>Різниця між функцією і методом?</summary>
+  <p>Відповідь на питання про різницю між функцією і методом...</p>
+</details>
+
 <details>
   <summary>Що таке каррінг (Currying)?</summary>
   <p>Відповідь на питання про каррінг (Currying)...</p>
